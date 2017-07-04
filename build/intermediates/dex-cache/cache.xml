@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_d0a642a2d16d1029a8b1aa074b29772b92398999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-integration/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d4d7d4290dc3f13bdb95a92b2377d78e66084dfa">
+        <dex dex="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-integration-2.0.1_eb36784fc7c68071bcf9b72dea078c30b4b5d49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7eb68150c290a271a716675ebdfd176eac694124">
+        <dex dex="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-legacy-2.0.1_47f81e009beb3ac4649dc686ba977a5fbeedd03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-integration/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d4d7d4290dc3f13bdb95a92b2377d78e66084dfa">
+        <dex dex="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-integration-2.0.1_f4db68fb6b82b5a9a45b11eed8b24acdf08ba614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_746317fa2cd1e38cc4200a992844189bb86a3bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_22e488aa6ae81760b799be4bd3aa720aa7b4c0a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_514f60772609b4b9cbd62e52ba75910c3e2fbc04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f38c1fe0ee3d0ef717e7f32131719fccf07fd6c7">
+        <dex dex="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-2.0.1_f191a21cbf5c7141ef0a9bf8cdf65a9b28cace24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.0.1/9ebf6cd580d67601fbf88fd007aab4703b19e4c2/core-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="/Users/raghudatta/Downloads/android-barcode-scanner-master/app/build/intermediates/pre-dexed/debug/core-3.0.1_3ebbdf3a18620bf79db5b95c4965b835cbd50de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_af7922cca6c49f75c93253fc2a67bad13c47005e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7eb68150c290a271a716675ebdfd176eac694124">
+        <dex dex="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-legacy-2.0.1_6274c9bc9be670942d7a391bc4a3bdfc8ad3d088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f38c1fe0ee3d0ef717e7f32131719fccf07fd6c7">
+        <dex dex="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-2.0.1_34c9736c243b411143d287a05feba1784c3d29e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_055824a3510378641e2869243e586e58f16a22e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/raghudatta/Documents/workspace/AndroidDevelopment/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_b603e9ad95e1ee47eca407cb0a8016b47b66a662.jar" />
+    </item>
+
+</items>
